@@ -1,3 +1,5 @@
+[poster] (/sosmany1.github.io/docs/assets/Screen Shot 2022-06-09 at 17.43.19.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sosmany1/sosmany1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
