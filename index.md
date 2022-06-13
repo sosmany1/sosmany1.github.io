@@ -1,4 +1,4 @@
-![poster] (/sosmany1.github.io/docs/assets/Screen Shot 2022-06-09 at 17.43.19.png)
+#![poster] (/sosmany1.github.io/docs/assets/Screen Shot 2022-06-09 at 17.43.19.png)
 
 ![myposter](https://github.com/sosmany1/sosmany1.github.io/blob/main/docs/assets/Screen%20Shot%202022-06-09%20at%2017.43.19.png)
 
