@@ -1,5 +1,6 @@
 ![myposter3](https://sosmany1.github.io/docs/assets/semigans.png)
 
-<img src="(https://sosmany1.github.io/docs/assets/semigans.png)" width="1000" height="1000">
+<img src="https://sosmany1.github.io/docs/assets/semigans.png" width="500" height="500">
+
 
 
