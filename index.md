@@ -1,16 +1,4 @@
-
-
 ![myposter3](https://sosmany1.github.io/docs/assets/semigans.png)
-
-
-## Welcome to GitHub Pages
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
 
 [Link](url) and ![Image](src)
 
