@@ -1,4 +1,4 @@
-[poster] (/sosmany1.github.io/docs/assets/Screen Shot 2022-06-09 at 17.43.19.png)
+![poster] (/sosmany1.github.io/docs/assets/Screen Shot 2022-06-09 at 17.43.19.png)
 
 ## Welcome to GitHub Pages
 
