@@ -1,8 +1,9 @@
-#![poster] (/sosmany1.github.io/docs/assets/Screen Shot 2022-06-09 at 17.43.19.png)
+
+
+![myposter3](https://sosmany1.github.io/docs/assets/semigans.png)
 
 ![myposter2](https://sosmany1.github.io/docs/assets/Screen%20Shot%202022-06-09%20at%2017.43.19.png)
 
-![myposter](https://github.com/sosmany1/sosmany1.github.io/blob/main/docs/assets/Screen%20Shot%202022-06-09%20at%2017.43.19.png)
 
 ## Welcome to GitHub Pages
 
