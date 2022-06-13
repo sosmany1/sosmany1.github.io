@@ -1,6 +1,6 @@
 
 
-<img src="https://sosmany1.github.io/docs/assets/semigans.png" width="2000">
+<img src="https://sosmany1.github.io/docs/assets/semigans.png" width="3000">
 
 
 
